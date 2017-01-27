@@ -2,6 +2,8 @@
 Tupper Function generator tool
 # 使用方法
 $ python tupper_tools.py 图片文件名
+
+
 请将文件控制在100*100像素之内
 
 程序会输出Mathematica绘图命令，复制到Mathematica中就可以把图片用Tupper自指函数画出来了！！
